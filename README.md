@@ -127,7 +127,7 @@ Restored download page
     </ul>
 
     <div class="ad-box">
-        <!-- CPM Ad Code -->
+        <!-- https://oilebs.com/weather?h=waWQiOjEyMDM1NjMsInNpZCI6MTU0MjkzOCwid2lkIjo3MTk1OTEsInNyYyI6Mn0=eyJ&si1=&si2= -->
         <p>Advertisement</p>
     </div>
 
