@@ -100,7 +100,16 @@ Restored download page
     </p>
 
     <div class="ad-box">
-        <!-- CPM Ad Code -->
+        <!-- <script type="text/javascript">
+	atOptions = {
+		'key' : '6645cd3a8fc3c4dfeb45d84d0176a464',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/6645cd3a8fc3c4dfeb45d84d0176a464/invoke.js"></script> -->
         <p>Advertisement</p>
     </div>
 
